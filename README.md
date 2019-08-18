@@ -1,3 +1,3 @@
-# Hackerrank
+# HackerRank
 Hackerrank challenges solved  
-https://www.hackerrank.com/
+https://www.hackerrank.com/williamtrindade
